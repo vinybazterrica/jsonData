@@ -1,25 +1,7 @@
 {
     "data": {
-        "about": null,
-        "city": "Buenos Aires",
-        "company": "Self-employed",
-        "company_description": null,
-        "company_domain": "",
-        "company_employee_count": null,
-        "company_employee_range": null,
-        "company_industry": null,
-        "company_linkedin_url": "",
-        "company_logo_url": null,
-        "company_website": null,
-        "company_year_founded": null,
-        "connection_count": 0,
-        "country": "Argentina",
-        "current_company_join_month": 10,
-        "current_company_join_year": 2020,
-        "current_job_duration": "4 yrs 10 mos",
-        "educations": [],
         "email": "vbazterrica@gmail.com",
-        "experiences": [
+        "experiences": [ 
             {
                 "company": "Autónomo",
                 "company_id": "",
@@ -57,31 +39,15 @@
                 "title": "Soporte tecnico"
             }
         ],
-        "first_name": "Vinicius",
-        "follower_count": 0,
         "full_name": "Vinicius Bazterrica",
         "headline": "Android Developer",
-        "hq_city": null,
-        "hq_country": null,
-        "hq_region": null,
-        "is_creator": false,
-        "is_influencer": false,
-        "is_premium": false,
-        "is_verified": false,
-        "job_title": "Desarrollador de Android",
-        "languages": [],
-        "last_name": "Bazterrica",
         "linkedin_url": "https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/",
-        "location": "Buenos Aires, Buenos Aires Province, Argentina",
         "phone": "1121762741",
         "profile_id": "1206025131",
         "profile_image_url": "https://media.licdn.com/dms/image/v2/D4D03AQEJAbHZ9xuxog/profile-displayphoto-shrink_800_800/B4DZZrDV6lHIAg-/0/1745552761574?e=1755734400&v=beta&t=jWqLTUd7EKlFfixRmEwPAIj1q7D_Ph9GaMf5pVHF5UQ",
-        "public_id": "vinicius-bazterrica-263a8b297",
-        "school": "",
-        "state": "Buenos Aires Province",
-        "urn": "ACoAAEfie6sBSzhxyupKLiHaWDhkStu4bs3ztcs",
         "certificates" : ["https://api.educacionit.com/pdf/certificados/vinicius-kaluan-bazterrica-173248/31396?content_type=jpeg",
-            "https://api.educacionit.com/pdf/certificados/vinicius-kaluan-bazterrica-173248/76206?content_type=jpeg"]
+            "https://api.educacionit.com/pdf/certificados/vinicius-kaluan-bazterrica-173248/76206?content_type=jpeg"],
+        "github_url" : "https://github.com/vinybazterrica"
     },
     "message": "ok"
 }
